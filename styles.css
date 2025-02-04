@@ -9,6 +9,6 @@ body{
 @media screen and (max-width:500px){
 	/*Any screen resolution from 0-500px wide*/
 	body{
-		background-color:red;
+		background-color:rgb(18, 6, 72);
 	}
 }
